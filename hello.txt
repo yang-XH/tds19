@@ -1,3 +1,2 @@
 "Hi CUFEers!"
-
-"Hello SAMers!"
+"hello feng li"
